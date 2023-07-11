@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CachedManifest</key>
+	<dict>
+		<key>manifestData</key>
+		<data>
+		eyJkZXBlbmRlbmNpZXMiOlt7InNvdXJjZUNvbnRyb2wiOlt7ImlkZW50aXR5
+		Ijoid3JhcHBpbmdoc3RhY2siLCJsb2NhdGlvbiI6eyJyZW1vdGUiOlsiaHR0
+		cHM6XC9cL2dpdGh1Yi5jb21cL2Rra1wvV3JhcHBpbmdIU3RhY2siXX0sInBy
+		b2R1Y3RGaWx0ZXIiOm51bGwsInJlcXVpcmVtZW50Ijp7InJhbmdlIjpbeyJs
+		b3dlckJvdW5kIjoiMi4wLjAiLCJ1cHBlckJvdW5kIjoiMy4wLjAifV19fV19
+		XSwiZGlzcGxheU5hbWUiOiJIYXB0aWMgQnJhaWxsZSIsInBhY2thZ2VLaW5k
+		Ijp7InJvb3QiOnt9fSwicGxhdGZvcm1zIjpbeyJvcHRpb25zIjpbXSwicGxh
+		dGZvcm1OYW1lIjoiaW9zIiwidmVyc2lvbiI6IjE1LjIifV0sInByb2R1Y3Rz
+		IjpbeyJuYW1lIjoiSGFwdGljIEJyYWlsbGUiLCJzZXR0aW5ncyI6W3siYnVu
+		ZGxlSWRlbnRpZmllciI6WyJzaGFoLnVqdmFsLm1lLkhhcHRpYy1CcmFpbGxl
+		Il19LHsidGVhbUlkZW50aWZpZXIiOlsiR1gyR1VYN0JIMiJdfSx7ImRpc3Bs
+		YXlWZXJzaW9uIjpbIjEuMCJdfSx7ImJ1bmRsZVZlcnNpb24iOlsiMSJdfSx7
+		ImlPU0FwcEluZm8iOlt7ImFjY2VudENvbG9yIjp7InByZXNldENvbG9yIjp7
+		InByZXNldENvbG9yIjp7InJhd1ZhbHVlIjoidGVhbCJ9fX0sImFwcENhdGVn
+		b3J5Ijp7InJhd1ZhbHVlIjoicHVibGljLmFwcC1jYXRlZ29yeS5nYW1lcyJ9
+		LCJhcHBJY29uIjp7ImFzc2V0Ijp7Im5hbWUiOiJBcHBJY29uIn19LCJjYXBh
+		YmlsaXRpZXMiOltdLCJzdXBwb3J0ZWREZXZpY2VGYW1pbGllcyI6WyJwYWQi
+		LCJwaG9uZSJdLCJzdXBwb3J0ZWRJbnRlcmZhY2VPcmllbnRhdGlvbnMiOlt7
+		InBvcnRyYWl0Ijp7fX0seyJsYW5kc2NhcGVSaWdodCI6e319LHsibGFuZHNj
+		YXBlTGVmdCI6e319LHsicG9ydHJhaXRVcHNpZGVEb3duIjp7ImNvbmRpdGlv
+		biI6eyJkZXZpY2VGYW1pbGllcyI6WyJwYWQiXX19fV19XX1dLCJ0YXJnZXRz
+		IjpbIkFwcE1vZHVsZSJdLCJ0eXBlIjp7ImV4ZWN1dGFibGUiOm51bGx9fV0s
+		InRhcmdldE1hcCI6eyJBcHBNb2R1bGUiOnsiZGVwZW5kZW5jaWVzIjpbeyJw
+		cm9kdWN0IjpbIldyYXBwaW5nSFN0YWNrIiwid3JhcHBpbmdoc3RhY2siLG51
+		bGwsbnVsbF19XSwiZXhjbHVkZSI6W10sIm5hbWUiOiJBcHBNb2R1bGUiLCJw
+		YXRoIjoiLiIsInJlc291cmNlcyI6W3sicGF0aCI6IkFwcFwvUmVzb3VyY2Vz
+		XC9BSEFQIiwicnVsZSI6eyJwcm9jZXNzIjp7fX19XSwic2V0dGluZ3MiOltd
+		LCJ0eXBlIjoiZXhlY3V0YWJsZSJ9fSwidGFyZ2V0cyI6W3siZGVwZW5kZW5j
+		aWVzIjpbeyJwcm9kdWN0IjpbIldyYXBwaW5nSFN0YWNrIiwid3JhcHBpbmdo
+		c3RhY2siLG51bGwsbnVsbF19XSwiZXhjbHVkZSI6W10sIm5hbWUiOiJBcHBN
+		b2R1bGUiLCJwYXRoIjoiLiIsInJlc291cmNlcyI6W3sicGF0aCI6IkFwcFwv
+		UmVzb3VyY2VzXC9BSEFQIiwicnVsZSI6eyJwcm9jZXNzIjp7fX19XSwic2V0
+		dGluZ3MiOltdLCJ0eXBlIjoiZXhlY3V0YWJsZSJ9XSwidG9vbHNWZXJzaW9u
+		Ijp7Il92ZXJzaW9uIjoiNS42LjAifX0=
+		</data>
+		<key>manifestHash</key>
+		<data>
+		RYTkfhCohCf8nKDCXlIfeGibKEVIGF/zV6oLL6u7P+c=
+		</data>
+		<key>schemaVersion</key>
+		<integer>4</integer>
+		<key>swiftPMVersionString</key>
+		<string>5.7.1</string>
+	</dict>
+</dict>
+</plist>
